@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aveeongithub
 - 👀 I’m interested in Test Automation with particular interest in UI Automation
-- 🌱 I’m currently learning API Automation using Postman
+- 🌱 I’m currently in a Python Bootcamp
 - 💞️ I’m looking to collaborate on effective and simple frameworks for Test Automations
 - 📫 You can always reachout to me on my email: avinandan25dey@gmail.com
 
